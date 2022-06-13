@@ -1,0 +1,10 @@
+asgiref==3.5.2
+certifi==2022.5.18.1
+Django==3.2
+django-pyodbc-azure @ file:///Users/ktietz/demo/mc3/conda-bld/django-pyodbc-azure_1630655001752/work
+gunicorn==20.1.0
+Pillow==9.1.1
+pyodbc @ file:///opt/concourse/worker/volumes/live/9dbfb0d3-ab80-4660-5d6e-a7f71a5af5f9/volume/pyodbc_1647425907941/work
+python-dotenv==0.20.0
+pytz==2021.3
+sqlparse==0.4.2
